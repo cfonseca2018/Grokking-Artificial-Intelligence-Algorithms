@@ -1,0 +1,1 @@
+source "h:/Intro to AI Summer 2022/Grokking-Artificial-Intelligence-Algorithms/gaia-env/Scripts/activate"
